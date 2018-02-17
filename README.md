@@ -4,11 +4,13 @@ A "functional" preset for [TSLint](https://github.com/palantir/tslint) with some
 
 ## Setup
 
+Install with npm or yarn:
+
 ```bash
 yarn add tslint-functional-preset --dev
 ```
 
-Add the following to `tslint.json`
+Add the following to your project's `tslint.json`:
 
 ```json
 {
