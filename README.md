@@ -12,6 +12,6 @@ Add the following to `tslint.json`
 
 ```json
 {
-  "extends": ["@allthings/tslint-preset"]
+  "extends": ["tslint-functional-preset"]
 }
 ```
