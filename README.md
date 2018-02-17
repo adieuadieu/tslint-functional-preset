@@ -1,6 +1,6 @@
 # tslint-functional-preset
 
-A "functional" preset for [TSLint](https://github.com/palantir/tslint) with some crazy defaults. It's more or less a convenience preset around the rules provided by [tslint-immutable](https://github.com/jonaskello/tslint-immutable).
+A "functional" preset for [TSLint](https://github.com/palantir/tslint) with some crazy defaults that promote a functional, immutable, and declarative programming style. It's mostly a convenience preset around the rules provided by [tslint-immutable](https://github.com/jonaskello/tslint-immutable).
 
 ## Setup
 
