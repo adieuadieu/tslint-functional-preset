@@ -11,7 +11,7 @@
   ],
   "main": "tslint.json",
   "repository": "https://github.com/adieuadieu/tslint-functional-preset",
-  "author": "Marco Lüthy <marco.luethy@gmail.com (https://github.com/adieuadieu)",
+  "author": "Marco Lüthy <marco.luethy@gmail.com> (https://github.com/adieuadieu)",
   "license": "MIT",
   "files": [
     "tslint.json"
