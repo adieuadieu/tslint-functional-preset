@@ -54,14 +54,15 @@
     "no-mixed-interface": true,
     "no-expression-statement": true,
     "no-loop-statement": true,
+    "no-if-statement": true,
     "no-method-signature": true,
 
-    "no-submodule-imports": false,
+    "no-submodule-imports": true,
     "no-consecutive-blank-lines": true,
     "no-implicit-dependencies": [true, "dev"],
     "no-unused-variable": [true, "check-parameters"],
 
-    "cyclomatic-complexity": [true, 15],
+    "cyclomatic-complexity": [true, 10],
     "no-unnecessary-callback-wrapper": true,
     "arrow-return-shorthand": true,
     "no-for-in-array": true,
