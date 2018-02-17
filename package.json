@@ -2,9 +2,16 @@
   "name": "tslint-functional-preset",
   "version": "1.0.0",
   "description": "A functional preset for TSLint with some crazy defaults.",
+  "keywords": [
+    "typescript",
+    "tslint",
+    "preset",
+    "functional",
+    "immutability"
+  ],
   "main": "tslint.json",
   "repository": "https://github.com/adieuadieu/tslint-functional-preset",
-  "author": "Marco Lüthy <marco.luethy@gmail.com>",
+  "author": "Marco Lüthy <marco.luethy@gmail.com (https://github.com/adieuadieu)",
   "license": "MIT",
   "files": [
     "tslint.json"
