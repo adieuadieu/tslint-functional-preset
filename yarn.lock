@@ -202,9 +202,9 @@ tslint-config-prettier@1.10.0:
   version "1.10.0"
   resolved "https://registry.yarnpkg.com/tslint-config-prettier/-/tslint-config-prettier-1.10.0.tgz#5063c413d43de4f6988c73727f65ecfc239054ec"
 
-tslint-immutable@4.5.2:
-  version "4.5.2"
-  resolved "https://registry.yarnpkg.com/tslint-immutable/-/tslint-immutable-4.5.2.tgz#caa6fffb60467004635b71587d9683cc26a07ca8"
+tslint-immutable@4.5.3:
+  version "4.5.3"
+  resolved "https://registry.yarnpkg.com/tslint-immutable/-/tslint-immutable-4.5.3.tgz#5ebd97b2a931d7e69f82847f8d79bf8a7e7e86fc"
 
 tslint@5.9.1:
   version "5.9.1"
