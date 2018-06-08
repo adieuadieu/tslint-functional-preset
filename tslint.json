@@ -6,6 +6,7 @@
     "tslint-immutable"
   ],
   "rules": {
+    "arrow-return-shorthand": [true, "multiline"],
     "jsdoc-format": true,
     "comment-format": [true, "check-space"],
     "indent": [true, "spaces"],
@@ -64,7 +65,6 @@
 
     "cyclomatic-complexity": [true, 10],
     "no-unnecessary-callback-wrapper": true,
-    "arrow-return-shorthand": true,
     "no-for-in-array": true,
     "no-string-throw": true,
     "no-use-before-declare": true
