@@ -1,6 +1,6 @@
 {
   "name": "tslint-functional-preset",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "A functional preset for TSLint with some crazy defaults.",
   "keywords": [
     "typescript",
