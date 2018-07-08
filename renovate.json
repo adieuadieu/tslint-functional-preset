@@ -1,5 +1,9 @@
 {
-  "extends": [
-    "config:base"
-  ]
+  "extends": ["config:base"],
+  "automerge": true,
+  "automergeType": "branch-push",
+  "commitMessagePrefix": "⬆️ ",
+  "major": {
+    "automerge": false
+  }
 }
