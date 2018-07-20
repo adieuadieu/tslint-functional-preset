@@ -62,7 +62,6 @@
     "no-submodule-imports": true,
     "no-consecutive-blank-lines": true,
     "no-implicit-dependencies": [true, "dev"],
-    "no-unused-variable": [true, "check-parameters"],
 
     "cyclomatic-complexity": [true, 10],
     "no-unnecessary-callback-wrapper": true,
