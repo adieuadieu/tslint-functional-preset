@@ -20,7 +20,7 @@
     "upgrade-dependencies": "yarn upgrade-interactive --latest --exact"
   },
   "dependencies": {
-    "tslint-config-prettier": "1.13.0",
+    "tslint-config-prettier": "1.14.0",
     "tslint-immutable": "4.6.0"
   },
   "devDependencies": {
