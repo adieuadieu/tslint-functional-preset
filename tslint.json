@@ -39,6 +39,7 @@
         "variable-declaration": "onespace"
       }
     ],
+    "newline-before-return": true,
 
     "no-var-keyword": true,
     "no-parameter-reassignment": true,
