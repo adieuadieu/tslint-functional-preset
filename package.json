@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "tslint-config-prettier": "1.14.0",
-    "tslint-immutable": "4.6.0"
+    "tslint-immutable": "4.7.0"
   },
   "devDependencies": {
     "tslint": "5.11.0",
