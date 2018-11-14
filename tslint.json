@@ -59,7 +59,8 @@
     "no-loop-statement": true,
     "no-if-statement": true,
     "no-method-signature": true,
-
+    "no-else-after-return": true,
+    
     "no-submodule-imports": true,
     "no-consecutive-blank-lines": true,
     "no-implicit-dependencies": [true, "dev"],
