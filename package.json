@@ -25,7 +25,7 @@
   },
   "devDependencies": {
     "tslint": "5.20.1",
-    "typescript": "3.7.3"
+    "typescript": "3.9.10"
   },
   "peerDependencies": {
     "tslint": ">= 5.9.1",
